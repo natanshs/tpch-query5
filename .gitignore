@@ -5,3 +5,6 @@
 *.log
 build/
 
+data/
+results/
+build/
